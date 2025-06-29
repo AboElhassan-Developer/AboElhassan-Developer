@@ -39,13 +39,6 @@ I enjoy building **clean**, **scalable**, and **performance-optimized** web appl
 - 💼 [LinkedIn](https://www.linkedin.com/in/abo-elhassanmamdoh/)  
 - 📧 Email: mamdohbassem2@gmail.com  
 
----
-
-## 📊 GitHub Stats  
-<!-- احذف التعليق لتظهر الإحصائيات -->
-
-![AboElhassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AboElhassan-Developer&show_icons=true&theme=tokyonight)
-
 
 ---
 
