@@ -1,28 +1,52 @@
-# 👋 Hi, I’m AboElhassan Mamdouh  
-🚀 Full Stack .NET Developer | Passionate about Backend & Software Architecture  
+👋 Hi, I’m AboElhassan Mamdouh
+🚀 Full Stack Developer | 💻 Passionate about building modern web applications
 
-## 👀 Interests  
-- Backend Development with ASP.NET Core  
-- Clean Code & Design Patterns  
-- Microservices & Cloud Computing  
-- Improving UI/UX with Bootstrap & jQuery  
 
-## 🌱 Currently Learning  
-- Advanced ASP.NET Core & Clean Architecture  
-- Microservices & Distributed Systems  
-- Frontend with React  
+🧠 About Me
+I'm a highly motivated Full Stack Developer with hands-on experience across a wide range of modern technologies. I enjoy building clean, scalable, and performance-optimized web applications from front to back.
 
-## 💼 Looking to Collaborate  
-- Open-source .NET projects  
-- Backend-heavy applications  
-- Learning from other developers  
 
-## 📫 How to Reach Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abo-elhassanmamdoh/) 
-- 📧 Email:mamdohbassem2@gmail.com  
+🛠️ Tech Stack
+ 
+🌐 Frontend
+Angular
 
-## 😄 Fun Fact  
+TypeScript
+
+JavaScript (ES6)
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+🔧 Backend
+C#
+
+ASP.NET Core MVC
+
+Web API
+
+Entity Framework Core
+
+LINQ
+
+SQL Server
+
+☁️  Version Control &Tools
+Git & GitHub
+
+Netlify
+
+📫 How to Reach Me
+💼 LinkedIn
+
+📧 Email: mamdohbassem2@gmail.com
+
+ 😄 Fun Fact  
 I enjoy solving coding challenges and refactoring messy code into clean, maintainable solutions!  
 
 ---
 ✨ Thanks for visiting my profile! Let’s build something amazing together. ✨
+
