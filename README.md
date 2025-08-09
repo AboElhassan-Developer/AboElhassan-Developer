@@ -34,6 +34,11 @@ I enjoy building **clean**, **scalable**, and **performance-optimized** web appl
 
 ---
 
+## 📄 Resume 
+Check out my [Resume here](https://drive.google.com/file/d/13fxa9U4JYiWrAmeD_Tpe4kC92Pe426rG/view?usp=sharing) 
+
+---
+
 ## 📫 How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abo-elhassanmamdoh/)  
