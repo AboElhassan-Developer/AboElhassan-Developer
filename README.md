@@ -35,7 +35,7 @@ I enjoy building **clean**, **scalable**, and **performance-optimized** web appl
 ---
 
 ## 📄 Resume 
-Check out my [Resume here](https://drive.google.com/file/d/13fxa9U4JYiWrAmeD_Tpe4kC92Pe426rG/view?usp=sharing) 
+Check out my [Resume here](https://drive.google.com/file/d/10C0H3GXoKdInip4dWBefHUhzwvHGxhTk/view?usp=sharing) 
 
 ---
 
