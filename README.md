@@ -4,13 +4,31 @@
 
 ---
 
-## 🧠 About Me  
-I'm a highly motivated **Full Stack Developer** with hands-on experience across a wide range of modern technologies.  
-I enjoy building **clean**, **scalable**, and **performance-optimized** web applications from front to back.
+## 🧠 About Me
+Hi! I'm a **Full Stack .NET Developer** with hands-on experience in building **clean, scalable, and performance-optimized web applications**.  
+
+I enjoy working with **C#, ASP.NET Core, Angular, Entity Framework, SQL Server, PostgreSQL**, and modern tools like **Docker, Azure, and Git**.  
+
+Passionate about solving complex problems, writing maintainable code, and creating **real-world software solutions**. Always learning and exploring new technologies! 🚀
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 🔧 Backend  
+- C#  
+- ASP.NET Core (MVC & Web API)
+- SignalR
+- RESTful APIs
+- JWT Authentication
+- Entity Framework Core (ORM)  
+- LINQ  
+- SQL Server
+- PostgreSQL
+- SOLID Principles
+- Clean Architecture
+- Stripe Payment Integration
+- CRM Systems
 
 ### 🌐 Frontend  
 - Angular  
@@ -18,24 +36,24 @@ I enjoy building **clean**, **scalable**, and **performance-optimized** web appl
 - JavaScript (ES6)  
 - HTML5  
 - CSS3  
-- Bootstrap  
+- Bootstrap
+- SCSS
+- Responsive Design
 
-### 🔧 Backend  
-- C#  
-- ASP.NET Core MVC  
-- Web API  
-- Entity Framework Core  
-- LINQ  
-- SQL Server  
-
-### ☁️ Tools & Others  
-- Git & GitHub  
+### ☁️ Cloud & DevOps
+- Microsoft Azure (App Services, Azure SQL)
+- Docker
+  
+### 🧰 Tools & Version Control 
+- Git 
+-  GitHub
+-  Postman
 - Netlify  
 
 ---
 
 ## 📄 Resume 
-Check out my [Resume here](https://drive.google.com/file/d/1q4TGQERaubQFNTYHBFjfXXcqrg62S9Hs/view?usp=sharing) 
+Check out my [Resume here](https://drive.google.com/file/d/1CQbN6ura-IBP4NfSaTSPXIqHvtfMauIQ/view?usp=sharing) 
 
 ---
 
