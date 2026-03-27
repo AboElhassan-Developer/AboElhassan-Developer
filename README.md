@@ -80,9 +80,7 @@ I'm a **Full Stack .NET Developer** who builds clean, scalable, and production-r
 
 <div align="center">
 
-![AboElhassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AboElhassan-Developer&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AboElhassan-Developer&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AboElhassan-Developer&theme=tokyonight&hide_border=true)
 
 </div>
 
