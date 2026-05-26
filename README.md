@@ -4,7 +4,7 @@
 ### .NET Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abo-elhassanmamdoh/)
-[![Resume]([https://img.shields.io/badge/Resume-View-28A745?style=for-the-badge&logo=google-drive&logoColor=white](https://drive.google.com/file/d/1NDkVejbSp7M0DB9weQw9hSjoGLszTHNY/view?usp=sharing))](https://drive.google.com/file/d/1WddmQcQOLJD7BecLv_1arKXLho4GIfA1/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-28A745?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1NDkVejbSp7M0DB9weQw9hSjoGLszTHNY/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamdohbassem2@gmail.com)
 
 </div>
@@ -103,12 +103,11 @@ I specialize in building end-to-end systems — from secure RESTful APIs and rea
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AboElhassan-Developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AboElhassan-Developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AboElhassan-Developer&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AboElhassan-Developer&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AboElhassan-Developer&layout=compact&theme=tokyonight&hide_border=true)
 </div>
 
 ---
