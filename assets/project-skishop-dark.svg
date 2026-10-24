@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="238" viewBox="0 0 410 238" role="img" aria-label="SkiShop: Online store built on Clean Architecture with Stripe checkout, Redis caching and live order notifications over SignalR, plus an Angular 19 storefront with filters.">
+<title>SkiShop: Online store built on Clean Architecture with Stripe checkout, Redis caching and live order notifications over SignalR, plus an Angular 19 storefront with filters.</title>
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#151a2e"/><stop offset="1" stop-color="#1a1238"/></linearGradient>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1" gradientTransform="rotate(0 0.5 0.5)">
+    <stop offset="0" stop-color="#7c5cff"/><stop offset="0.45" stop-color="#262c44"/><stop offset="0.55" stop-color="#262c44"/><stop offset="1" stop-color="#ff7aa8"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#7c5cff"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#7c5cff" stop-opacity="0.28"/><stop offset="1" stop-color="#7c5cff" stop-opacity="0"/></radialGradient>
+  <clipPath id="clip"><rect x="1" y="1" width="408" height="236" rx="17"/></clipPath>
+</defs>
+<rect x="1" y="1" width="408" height="236" rx="17" fill="url(#bg)"/>
+<g clip-path="url(#clip)">
+  <circle cx="380" cy="20" r="130" fill="url(#glow)">
+    <animate attributeName="r" values="120;150;120" dur="6s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<rect x="1" y="1" width="408" height="236" rx="17" fill="none" stroke="url(#border)" stroke-width="1.6"/>
+<rect x="24" y="24" width="46" height="46" rx="12" fill="url(#badge)"/>
+<g transform="translate(33 33) scale(1.17)" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8h12l-1 12H7z"/><path d="M9 8V6.5a3 3 0 0 1 6 0V8"/></g>
+<text x="84" y="44" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="700" fill="#e6edf3">SkiShop</text>
+<text x="84" y="64" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="11.5" fill="#8b949e">E-Commerce  ·  Oct – Dec 2025</text>
+<text x="24" y="106" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#c9d1d9">Online store built on Clean Architecture with Stripe</text>
+<text x="24" y="126" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#c9d1d9">checkout, Redis caching and live order notifications over</text>
+<text x="24" y="146" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#c9d1d9">SignalR, plus an Angular 19 storefront with filters.</text>
+<g transform="translate(24.0 188)"><rect width="53.8" height="26" rx="13" fill="#1a1f33" stroke="#2f3654"/><text x="9" y="17" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#c9d1d9" textLength="35.8" lengthAdjust="spacingAndGlyphs">.NET 8</text></g>
+<g transform="translate(83.8 188)"><rect width="76.5" height="26" rx="13" fill="#1a1f33" stroke="#2f3654"/><text x="9" y="17" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#c9d1d9" textLength="58.5" lengthAdjust="spacingAndGlyphs">Angular 19</text></g>
+<g transform="translate(166.3 188)"><rect width="54.3" height="26" rx="13" fill="#1a1f33" stroke="#2f3654"/><text x="9" y="17" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#c9d1d9" textLength="36.3" lengthAdjust="spacingAndGlyphs">Stripe</text></g>
+<g transform="translate(226.6 188)"><rect width="48.0" height="26" rx="13" fill="#1a1f33" stroke="#2f3654"/><text x="9" y="17" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#c9d1d9" textLength="30.0" lengthAdjust="spacingAndGlyphs">Redis</text></g>
+<g transform="translate(280.7 188)"><rect width="63.0" height="26" rx="13" fill="#1a1f33" stroke="#2f3654"/><text x="9" y="17" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#c9d1d9" textLength="45.0" lengthAdjust="spacingAndGlyphs">EF Core</text></g>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="290" viewBox="0 0 840 290" role="img" aria-label="Abo Elhassan Mamdouh, .NET Full Stack Developer">
+<title>Abo Elhassan Mamdouh, .NET Full Stack Developer</title>
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0a0d18"/><stop offset="0.55" stop-color="#16103a"/><stop offset="1" stop-color="#0d1117"/>
+  </linearGradient>
+  <radialGradient id="orbA"><stop offset="0" stop-color="#7c5cff" stop-opacity="0.5"/><stop offset="1" stop-color="#7c5cff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="orbB"><stop offset="0" stop-color="#ff5c8a" stop-opacity="0.32"/><stop offset="1" stop-color="#ff5c8a" stop-opacity="0"/></radialGradient>
+  <linearGradient id="name" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="420" y2="0" spreadMethod="repeat">
+    <stop offset="0" stop-color="#c4b5ff"/><stop offset="0.35" stop-color="#7c5cff"/><stop offset="0.7" stop-color="#ff7aa8"/><stop offset="1" stop-color="#c4b5ff"/>
+    <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="420 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7c5cff" stop-opacity="0"/><stop offset="0.5" stop-color="#7c5cff"/><stop offset="1" stop-color="#ff7aa8" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#7c5cff" stroke-width="1"/>
+    <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="28 28" dur="9s" repeatCount="indefinite"/>
+  </pattern>
+  <clipPath id="clip"><rect x="0.5" y="0.5" width="839" height="289" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="840" height="290" fill="url(#bg)"/>
+  <rect width="840" height="290" fill="url(#grid)" opacity="0.07"/>
+  <circle cx="170" cy="70" r="230" fill="url(#orbA)">
+    <animate attributeName="cx" values="170;300;170" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="70;130;70" dur="13s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="250" r="210" fill="url(#orbB)">
+    <animate attributeName="cx" values="700;560;700" dur="18s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="250;190;250" dur="15s" repeatCount="indefinite"/>
+  </circle>
+  
+    <text x="34" y="46" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="11.5" fill="#9b87ff" opacity="0">public async Task&lt;IActionResult&gt; Get()
+      <animate attributeName="opacity" values="0;0.42;0.42;0" keyTimes="0;0.2;0.75;1" dur="7.2s" begin="0s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 6;0 -6" dur="7.2s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="34" y="268" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="11.5" fill="#9b87ff" opacity="0">builder.Services.AddSignalR();
+      <animate attributeName="opacity" values="0;0.42;0.42;0" keyTimes="0;0.2;0.75;1" dur="7.2s" begin="2.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 6;0 -6" dur="7.2s" begin="2.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="560" y="40" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="11.5" fill="#9b87ff" opacity="0">@Component({ selector: 'app-root' })
+      <animate attributeName="opacity" values="0;0.42;0.42;0" keyTimes="0;0.2;0.75;1" dur="7.2s" begin="1.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 6;0 -6" dur="7.2s" begin="1.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="590" y="272" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="11.5" fill="#9b87ff" opacity="0">await _context.SaveChangesAsync();
+      <animate attributeName="opacity" values="0;0.42;0.42;0" keyTimes="0;0.2;0.75;1" dur="7.2s" begin="3.6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 6;0 -6" dur="7.2s" begin="3.6s" repeatCount="indefinite"/>
+    </text>
+  <text x="420" y="92" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="14" fill="#8b949e" letter-spacing="1">Hello, world. I'm</text>
+  <text x="420" y="146" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="800" fill="url(#name)" letter-spacing="-0.5">Abo Elhassan Mamdouh</text>
+  <text x="420" y="182" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#e6edf3">.NET Full Stack Developer</text>
+  <text x="420" y="207" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12.5" fill="#8b949e" letter-spacing="0.5">ASP.NET Core  ·  Angular  ·  SQL Server  ·  Azure</text>
+  <g transform="translate(208.7 226)">
+    <rect width="422.6" height="30" rx="15" fill="#171433" stroke="#3b3270"/>
+    <circle cx="18" cy="15" r="4" fill="#3ddc97"/>
+    <circle cx="18" cy="15" r="4" fill="none" stroke="#3ddc97" stroke-width="1.5">
+      <animate attributeName="r" values="4;10" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="32" y="19.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#c9d1d9" textLength="372.6" lengthAdjust="spacingAndGlyphs">Building university ERP software at Informatique Education</text>
+  </g>
+  <rect x="0" y="287" width="840" height="3" fill="url(#rule)">
+    <animate attributeName="x" values="-840;840" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<rect x="0.5" y="0.5" width="839" height="289" rx="20" fill="none" stroke="#2a2f45"/>
+</svg>

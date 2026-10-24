@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="238" viewBox="0 0 410 238" role="img" aria-label="Dating App: Real-time dating platform with live chat, likes and photo uploads. JWT auth with roles, an admin moderation panel and Cloudinary media storage, shipped in Docker.">
+<title>Dating App: Real-time dating platform with live chat, likes and photo uploads. JWT auth with roles, an admin moderation panel and Cloudinary media storage, shipped in Docker.</title>
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f5f1ff"/></linearGradient>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1" gradientTransform="rotate(0 0.5 0.5)">
+    <stop offset="0" stop-color="#6a4cf0"/><stop offset="0.45" stop-color="#e4def7"/><stop offset="0.55" stop-color="#e4def7"/><stop offset="1" stop-color="#d6336c"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5c8a"/><stop offset="1" stop-color="#7c5cff"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#7c5cff" stop-opacity="0.28"/><stop offset="1" stop-color="#7c5cff" stop-opacity="0"/></radialGradient>
+  <clipPath id="clip"><rect x="1" y="1" width="408" height="236" rx="17"/></clipPath>
+</defs>
+<rect x="1" y="1" width="408" height="236" rx="17" fill="url(#bg)"/>
+<g clip-path="url(#clip)">
+  <circle cx="380" cy="20" r="130" fill="url(#glow)">
+    <animate attributeName="r" values="120;150;120" dur="6s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<rect x="1" y="1" width="408" height="236" rx="17" fill="none" stroke="url(#border)" stroke-width="1.6"/>
+<rect x="24" y="24" width="46" height="46" rx="12" fill="url(#badge)"/>
+<g transform="translate(33 33) scale(1.17)" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z" fill="#fff" stroke="none"><animate attributeName="opacity" values="1;0.55;1" dur="1.2s" repeatCount="indefinite"/></path></g>
+<text x="84" y="44" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="700" fill="#1f2328">Dating App</text>
+<text x="84" y="64" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="11.5" fill="#59636e">Full Stack  ·  Jan – Mar 2026</text>
+<text x="24" y="106" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#3a4049">Real-time dating platform with live chat, likes and photo</text>
+<text x="24" y="126" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#3a4049">uploads. JWT auth with roles, an admin moderation panel</text>
+<text x="24" y="146" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#3a4049">and Cloudinary media storage, shipped in Docker.</text>
+<g transform="translate(24.0 188)"><rect width="53.8" height="26" rx="13" fill="#f4f1ff" stroke="#ddd4fb"/><text x="9" y="17" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#3a4049" textLength="35.8" lengthAdjust="spacingAndGlyphs">.NET 8</text></g>
+<g transform="translate(83.8 188)"><rect width="76.5" height="26" rx="13" fill="#f4f1ff" stroke="#ddd4fb"/><text x="9" y="17" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#3a4049" textLength="58.5" lengthAdjust="spacingAndGlyphs">Angular 19</text></g>
+<g transform="translate(166.3 188)"><rect width="59.1" height="26" rx="13" fill="#f4f1ff" stroke="#ddd4fb"/><text x="9" y="17" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#3a4049" textLength="41.1" lengthAdjust="spacingAndGlyphs">SignalR</text></g>
+<g transform="translate(231.4 188)"><rect width="83.2" height="26" rx="13" fill="#f4f1ff" stroke="#ddd4fb"/><text x="9" y="17" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#3a4049" textLength="65.2" lengthAdjust="spacingAndGlyphs">SQL Server</text></g>
+<g transform="translate(320.6 188)"><rect width="57.2" height="26" rx="13" fill="#f4f1ff" stroke="#ddd4fb"/><text x="9" y="17" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#3a4049" textLength="39.2" lengthAdjust="spacingAndGlyphs">Docker</text></g>
+</svg>

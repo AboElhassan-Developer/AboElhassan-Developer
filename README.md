@@ -1,123 +1,192 @@
 <div align="center">
 
-# Abo Elhassan Mamdouh
-### .NET Full Stack Developer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Abo Elhassan Mamdouh, .NET Full Stack Developer" width="100%">
+</picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abo-elhassanmamdoh/)
-[![Resume](https://img.shields.io/badge/Resume-View-28A745?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1NDkVejbSp7M0DB9weQw9hSjoGLszTHNY/view?usp=sharing)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamdohbassem2@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
+  <img src="assets/typing-light.svg" alt="Building production web apps with ASP.NET Core and Angular" width="100%">
+</picture>
 
-</div>
+<a href="https://portfolio-six-silk-92.vercel.app/"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="46"></a>&nbsp;
+<a href="https://drive.google.com/file/d/1q6p9oQkZ4EYrLwlwERQ6oOUs8eBJTo3j/view?usp=sharing"><img src="assets/btn-resume.svg" alt="Resume" height="46"></a>&nbsp;
+<a href="https://www.linkedin.com/in/abo-elhassanmamdoh/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>&nbsp;
+<a href="mailto:mamdohbassem2@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="46"></a>
 
----
+<br>
 
-## About Me
-
-Results-driven **.NET Full Stack Developer** with **2+ years** of experience engineering and shipping production-grade web applications.  
-I specialize in building end-to-end systems — from secure RESTful APIs and real-time features to responsive frontends and cloud deployments on Microsoft Azure.
-
-- 🎓 **ITI Graduate** — 9-month Full Stack .NET & Angular Program
-- ☁️ **Azure & Docker** — CI/CD pipelines, containerized deployments
-- ⚡ **Real-Time Systems** — SignalR, Redis caching, Stripe payments
-- 🏗️ **Clean Architecture** — SOLID, Repository Pattern, Design Patterns
-- 🌍 **Bilingual** — Arabic (Native) · English (Professional)
-
----
-
-## 🛠️ Tech Stack
-
-### Back-End
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET Core 8](https://img.shields.io/badge/ASP.NET%20Core%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-
-### Front-End
-![Angular 19](https://img.shields.io/badge/Angular%2019-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-### DevOps & Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 💘 Dating App — Full-Stack Web Application
-> Real-time dating platform with messaging, photo management, and admin moderation
-
-[![Live](https://img.shields.io/badge/Live%20Demo-dating--app.azurewebsites.net-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://dating-app.azurewebsites.net/)
-[![Demo](https://img.shields.io/badge/Video%20Demo-Watch-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/sEOz4jKxHac)
-[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AboElhassan-Developer/DatingApp)
-
-- 🔐 JWT authentication with Refresh Tokens & role-based authorization (Member / Moderator / Admin)
-- ⚡ Real-time messaging & online presence tracking via **SignalR**
-- 🖼️ Photo upload & management with **Cloudinary**
-- 🐳 Containerized with **Docker**, deployed on **Microsoft Azure**
-
-**Tech:** .NET Core 8 · Angular 19 · SQL Server · SignalR · Cloudinary · Docker · Azure
-
----
-
-### 🛍️ SkiShop — E-Commerce Platform
-> Scalable full-stack e-commerce app built with Clean Architecture
-
-[![API](https://img.shields.io/badge/GitHub-API-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AboElhassan-Developer/SkiShop-Project-API)
-[![Client](https://img.shields.io/badge/GitHub-Client-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AboElhassan-Developer/SkiShop-Project-Client)
-
-- 🏛️ Clean Architecture with Repository & Specification patterns
-- 💳 **Stripe** payment integration with real transactions
-- ⚡ **Redis** caching for performance & basket persistence
-- 🔔 Real-time order notifications via **SignalR**
-
-**Tech:** .NET Core 8 · Angular 19 · SQL Server · EF Core · Redis · Stripe · SignalR · Docker
-
----
-
-### 🛒 E-Commerce Web Application
-> Full-featured retail platform with 6+ functional modules
-
-- 6+ modules: authentication, products, cart, wishlist, orders, admin dashboard
-- Supports **100+ concurrent users** with secure JWT authentication
-- Responsive Angular frontend + RESTful API
-
-**Tech:** ASP.NET Core · Angular · SQL Server
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AboElhassan-Developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AboElhassan-Developer&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AboElhassan-Developer&layout=compact&theme=tokyonight&hide_border=true)
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abo%20Elhassan%20Mamdouh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abo-elhassanmamdoh/)
-[![Email](https://img.shields.io/badge/Email-mamdohbassem2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamdohbassem2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AboElhassan--Developer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AboElhassan-Developer)
+I build web applications end to end with **ASP.NET Core** and **Angular**, from the database to the UI.<br>
+Currently maintaining a multi-tenant **university ERP used by 750+ active users**.
 
 </div>
+
+<br>
+
+<h2 align="center">About me</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+  <img src="assets/about-light.svg" alt="About me: .NET Full Stack Developer in Cairo, Egypt, at Informatique Education building a university ERP used by 750+ active users. Back-end: C#, ASP.NET Core 8, EF Core, SignalR, SQL Server. Front-end: Angular 19, TypeScript, SCSS, Bootstrap 5. Cloud: Azure, Docker, GitHub Actions. B.Sc. Computer and IT, Assiut University. Speaks Arabic and English." width="100%">
+</picture>
+
+<h2 align="center">Tech stack</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="Tech stack: C#, .NET, ASP.NET Core, Angular, TypeScript, SQL Server, Azure, Docker and more" width="100%">
+</picture>
+
+<h2 align="center">Journey</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/journey-dark.svg">
+  <img src="assets/journey-light.svg" alt="Journey from Assiut University in 2019 to .NET developer at Informatique Education today" width="100%">
+</picture>
+
+<details>
+<summary><b>Experience, education and certifications</b></summary>
+
+<br>
+
+#### .NET Developer, Enterprise ERP Systems &nbsp;·&nbsp; Informatique Education
+`May 2026 – Present` &nbsp; Cairo, Egypt
+- Maintain core modules of a multi-tenant university ERP platform (ASP.NET WebForms, C#, SQL Server) serving 750+ active users across multiple institutional deployments.
+- Eliminate recurring production failures in core student workflows by diagnosing systemic defects across dozens of screens, tracing root causes through session state, business logic and database constraints.
+
+#### Part-Time Technical Instructor &nbsp;·&nbsp; iSchool DEMI
+`Jan 2026 – May 2026` &nbsp; Remote
+- Taught Problem Solving, Data Structures & Algorithms and web fundamentals.
+- Turned complex concepts into practical, beginner-friendly lessons.
+
+#### Freelance Full Stack .NET Developer
+`Sep 2023 – Present` &nbsp; Remote
+- **[Jadeer Logistics](https://aboelhassan-developer.github.io/Jadeer_Website/)**: bilingual (AR/EN) landing page with full RTL/LTR support, built with Bootstrap 5 and SCSS.
+- **E-commerce solution**: scalable store for a Saudi retail client using Angular, .NET Core and Stripe, with a smooth checkout, role-based access control and a responsive UI.
+
+#### Education
+**B.Sc. Computer and Information Technology**, Faculty of Computers and Information, Assiut University &nbsp;`2019 – 2023`
+- GPA 3.38 / 4.0. Graduation project, a Healthcare Record Management System built with ASP.NET Core MVC, graded Excellent.
+
+#### Training
+- **Full Stack .NET & Angular**, Information Technology Institute (ITI) &nbsp;`Oct 2024 – Jul 2025`
+- **Backend Bootcamp**, Career 180 &nbsp;`Feb 2024 – Jun 2024`
+
+#### Certifications
+- ECPC 2022, Egyptian Collegiate Programming Contest
+- ICPC Assiut University Community, Newcomers Training
+
+</details>
+
+<h2 align="center">Featured projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/project-dating-dark.svg">
+        <img src="assets/project-dating-light.svg" alt="Dating App" width="100%">
+      </picture>
+      <p align="center">
+        <a href="https://youtu.be/sEOz4jKxHac"><img src="assets/link-video.svg" alt="Video demo" height="30"></a>
+        <a href="https://github.com/AboElhassan-Developer/DatingApp"><img src="assets/link-code.svg" alt="Source code" height="30"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/project-skishop-dark.svg">
+        <img src="assets/project-skishop-light.svg" alt="SkiShop" width="100%">
+      </picture>
+      <p align="center">
+        <a href="https://github.com/AboElhassan-Developer/SkiShop-Project-API"><img src="assets/link-api.svg" alt="API source" height="30"></a>
+        <a href="https://github.com/AboElhassan-Developer/SkiShop-Project-Client"><img src="assets/link-client.svg" alt="Client source" height="30"></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/project-ecommerce-dark.svg">
+        <img src="assets/project-ecommerce-light.svg" alt="E-Commerce Web App" width="100%">
+      </picture>
+      <p align="center">
+        <a href="https://github.com/AboElhassan-Developer/ecommerce-system"><img src="assets/link-code.svg" alt="Source code" height="30"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/project-movies-dark.svg">
+        <img src="assets/project-movies-light.svg" alt="Movie Browser" width="100%">
+      </picture>
+      <p align="center">
+        <a href="https://github.com/AboElhassan-Developer/movie-app"><img src="assets/link-code.svg" alt="Source code" height="30"></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Project highlights</b></summary>
+
+<br>
+
+**Dating App**
+- JWT authentication with refresh tokens and role-based authorization (Member, Moderator, Admin).
+- Real-time messaging and online presence tracking with SignalR.
+- Photo upload and management with Cloudinary, containerized with Docker.
+
+**SkiShop**
+- Clean Architecture with the Repository, Specification and Unit of Work patterns.
+- Stripe payments, Redis caching for performance and basket persistence.
+- Real-time order notifications with SignalR, Angular 19 storefront with filtering, checkout and order history.
+
+**E-Commerce Web App**
+- Six functional modules: authentication, products, cart, wishlist, orders and an admin dashboard.
+- Secure ASP.NET Core REST API with JWT and a responsive Angular frontend.
+
+**Movie Browser**
+- Now playing, search and full movie details from the TMDB API, with recommendations.
+- Wishlist saved in local storage, state managed with RxJS.
+- English, Arabic, French and Chinese with automatic RTL/LTR switching.
+
+</details>
+
+<h3 align="center">More projects</h3>
+
+| Project | What it does | Built with |
+|:--|:--|:--|
+| **[Live Chat App](https://github.com/AboElhassan-Developer/LiveChatApp)** | Real-time chat over a SignalR hub with chat sessions and stored message history | ASP.NET Core, SignalR, EF Core, Angular 19 |
+| **[Company Sign-Up System](https://github.com/AboElhassan-Developer/company-signup)** · [video](https://youtu.be/3yYLokzsB4w) | Company onboarding with OTP email verification, password rules and logo upload | .NET 8 Web API, Clean Architecture, PostgreSQL, Angular |
+| **[Online Pharmacy Management](https://github.com/AboElhassan-Developer/Online_Pharmacy_Management_System)** | Medicines, patients, suppliers, invoices and orders with role-based access | ASP.NET Core MVC, Identity, EF Core, SQL Server |
+| **[Task Management System](https://github.com/AboElhassan-Developer/TaskManagementSystem-WebForms)** · [video](https://youtu.be/XMGh6OifAm4) | Admins create and assign tasks with attachments, members track and update them | ASP.NET WebForms, C#, Entity Framework, SQL Server |
+| **[Blocked Countries API](https://github.com/AboElhassan-Developer/BlockedCountriesAPI)** | Permanent and temporary country blocking by IP, lookups, attempt logging and a background cleanup service | .NET 8 Web API, Background Services, Swagger |
+| **[Digital Notes Manager](https://github.com/AboElhassan-Developer/DigitalNotesManager)** | Desktop notes app with categories, reminders, search and hashed passwords | WinForms, EF Core, SQL Server LocalDB |
+| **[Employee & Department Manager](https://github.com/AboElhassan-Developer/Emp-Department-manager)** | Employees, departments and projects with accounts and roles | ASP.NET Core MVC, Repository Pattern, EF Core |
+| **[Task Management App](https://github.com/AboElhassan-Developer/task-management-app)** | Task CRUD with statuses and JWT login | Vue 3, Quasar, Node.js, Express, MySQL |
+| **[Online Store](https://github.com/AboElhassan-Developer/E-commerce-Dashboard)** · [live](https://aboelhassan-developer.github.io/E-commerce-Dashboard/) | Storefront with an admin dashboard for products and categories, including image uploads | Node.js, Express, Multer, Bootstrap |
+| **[Jadeer Logistics](https://github.com/AboElhassan-Developer/Jadeer_Website)** · [live](https://aboelhassan-developer.github.io/Jadeer_Website/) | Bilingual logistics landing page with full RTL/LTR layouts | HTML, SCSS, Bootstrap 5, JavaScript |
+| **[Movies API](https://github.com/AboElhassan-Developer/MoviesAPI)** | REST API for movies and genres | ASP.NET Core Web API, EF Core |
+
+<p align="center">
+  <a href="https://github.com/AboElhassan-Developer?tab=repositories"><img src="assets/link-repos.svg" alt="All repositories" height="30"></a>
+</p>
+
+<h2 align="center">GitHub activity</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AboElhassan-Developer/AboElhassan-Developer/output/stats-dark.svg">
+  <img src="https://raw.githubusercontent.com/AboElhassan-Developer/AboElhassan-Developer/output/stats-light.svg" alt="GitHub activity" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AboElhassan-Developer/AboElhassan-Developer/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/AboElhassan-Developer/AboElhassan-Developer/output/snake-light.svg" alt="Contribution snake" width="100%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer-light.svg" alt="Thanks for stopping by" width="100%">
+</picture>

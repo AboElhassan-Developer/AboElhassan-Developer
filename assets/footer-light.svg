@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="150" viewBox="0 0 840 150" role="img" aria-label="Thanks for stopping by">
+<title>Thanks for stopping by</title>
+
+<defs><clipPath id="c"><rect width="840" height="150" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)">
+  <path d="M0 92 q70 -14 140 0 t140 0 q70 -14 140 0 t140 0 q70 -14 140 0 t140 0 q70 -14 140 0 t140 0 q70 -14 140 0 t140 0 q70 -14 140 0 t140 0 V150 H0 Z" fill="#c9bcff" opacity="0.55">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-840 0" dur="16s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 106 q52.5 -10 105 0 t105 0 q52.5 -10 105 0 t105 0 q52.5 -10 105 0 t105 0 q52.5 -10 105 0 t105 0 q52.5 -10 105 0 t105 0 q52.5 -10 105 0 t105 0 q52.5 -10 105 0 t105 0 q52.5 -10 105 0 t105 0 V150 H0 Z" fill="#a18cff" opacity="0.6">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-840 0" dur="11s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 120 q42 -8 84 0 t84 0 q42 -8 84 0 t84 0 q42 -8 84 0 t84 0 q42 -8 84 0 t84 0 q42 -8 84 0 t84 0 q42 -8 84 0 t84 0 q42 -8 84 0 t84 0 q42 -8 84 0 t84 0 q42 -8 84 0 t84 0 q42 -8 84 0 t84 0 V150 H0 Z" fill="#7c5cff" opacity="0.75">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-840 0" dur="8s" repeatCount="indefinite"/>
+  </path>
+</g>
+<text x="420" y="38" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#1f2328">Thanks for stopping by</text>
+<text x="420" y="62" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12" fill="#59636e">Questions, ideas or opportunities? My inbox is open.</text>
+</svg>

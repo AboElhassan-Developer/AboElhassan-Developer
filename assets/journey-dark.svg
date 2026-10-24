@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-label="Journey: B.Sc. Assiut University 2019, ECPC 2022, freelance since 2023, Career 180 and ITI in 2024, iSchool instructor 2026, now .NET developer at Informatique Education">
+<title>Journey: B.Sc. Assiut University 2019, ECPC 2022, freelance since 2023, Career 180 and ITI in 2024, iSchool instructor 2026, now .NET developer at Informatique Education</title>
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#151a2e"/><stop offset="1" stop-color="#1a1238"/></linearGradient>
+  <linearGradient id="track" x1="78" y1="0" x2="762" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#7c5cff"/><stop offset="0.7" stop-color="#b5a4ff"/><stop offset="1" stop-color="#ff7aa8"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#fff" stop-opacity="0.95"/><stop offset="0.35" stop-color="#b5a4ff" stop-opacity="0.7"/><stop offset="1" stop-color="#b5a4ff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="0.5" y="0.5" width="839" height="299" rx="18" fill="url(#bg)" stroke="#262c44"/>
+<line x1="78" x2="762" y1="150" y2="150" stroke="#262c44" stroke-width="4" stroke-linecap="round"/>
+<line x1="78" x2="762" y1="150" y2="150" stroke="url(#track)" stroke-width="4" stroke-linecap="round" stroke-dasharray="684" stroke-dashoffset="684">
+  <animate attributeName="stroke-dashoffset" from="684" to="0" dur="3s" begin="0.3s" fill="freeze"/>
+</line>
+<circle cx="78" cy="150" r="10" fill="url(#glow)" opacity="0">
+  <animate attributeName="cx" values="78;762" dur="5s" begin="3.6s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="5s" begin="3.6s" repeatCount="indefinite"/>
+</circle>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.30s" fill="freeze"/>
+    <line x1="78" x2="78" y1="140" y2="116" stroke="#7c5cff" stroke-opacity="0.45" stroke-dasharray="2 3"/>
+    <text x="78" y="70" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#b5a4ff">2019</text>
+    <text x="78" y="90" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#e6edf3">B.Sc. Computer &amp; IT</text>
+    <text x="78" y="107" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8b949e">Assiut University</text>
+  </g>
+  <circle cx="78" cy="150" r="0" fill="#121727" stroke="#7c5cff" stroke-width="3">
+    <animate attributeName="r" values="0;9;7" keyTimes="0;0.6;1" dur="0.45s" begin="0.30s" fill="freeze"/>
+  </circle>
+  <circle cx="78" cy="150" r="0" fill="#7c5cff">
+    <animate attributeName="r" from="0" to="3" dur="0.3s" begin="0.50s" fill="freeze"/>
+  </circle>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.80s" fill="freeze"/>
+    <line x1="192" x2="192" y1="160" y2="184" stroke="#7c5cff" stroke-opacity="0.45" stroke-dasharray="2 3"/>
+    <text x="192" y="198" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#b5a4ff">2022</text>
+    <text x="192" y="218" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#e6edf3">ECPC Contestant</text>
+    <text x="192" y="235" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8b949e">Collegiate programming</text>
+  </g>
+  <circle cx="192" cy="150" r="0" fill="#121727" stroke="#7c5cff" stroke-width="3">
+    <animate attributeName="r" values="0;9;7" keyTimes="0;0.6;1" dur="0.45s" begin="0.80s" fill="freeze"/>
+  </circle>
+  <circle cx="192" cy="150" r="0" fill="#7c5cff">
+    <animate attributeName="r" from="0" to="3" dur="0.3s" begin="1.00s" fill="freeze"/>
+  </circle>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.30s" fill="freeze"/>
+    <line x1="306" x2="306" y1="140" y2="116" stroke="#7c5cff" stroke-opacity="0.45" stroke-dasharray="2 3"/>
+    <text x="306" y="70" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#b5a4ff">2023</text>
+    <text x="306" y="90" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#e6edf3">Freelance Developer</text>
+    <text x="306" y="107" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8b949e">Remote clients, ongoing</text>
+  </g>
+  <circle cx="306" cy="150" r="0" fill="#121727" stroke="#7c5cff" stroke-width="3">
+    <animate attributeName="r" values="0;9;7" keyTimes="0;0.6;1" dur="0.45s" begin="1.30s" fill="freeze"/>
+  </circle>
+  <circle cx="306" cy="150" r="0" fill="#7c5cff">
+    <animate attributeName="r" from="0" to="3" dur="0.3s" begin="1.50s" fill="freeze"/>
+  </circle>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.80s" fill="freeze"/>
+    <line x1="420" x2="420" y1="160" y2="184" stroke="#7c5cff" stroke-opacity="0.45" stroke-dasharray="2 3"/>
+    <text x="420" y="198" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#b5a4ff">2024</text>
+    <text x="420" y="218" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#e6edf3">Backend Bootcamp</text>
+    <text x="420" y="235" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8b949e">Career 180</text>
+  </g>
+  <circle cx="420" cy="150" r="0" fill="#121727" stroke="#7c5cff" stroke-width="3">
+    <animate attributeName="r" values="0;9;7" keyTimes="0;0.6;1" dur="0.45s" begin="1.80s" fill="freeze"/>
+  </circle>
+  <circle cx="420" cy="150" r="0" fill="#7c5cff">
+    <animate attributeName="r" from="0" to="3" dur="0.3s" begin="2.00s" fill="freeze"/>
+  </circle>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.30s" fill="freeze"/>
+    <line x1="534" x2="534" y1="140" y2="116" stroke="#7c5cff" stroke-opacity="0.45" stroke-dasharray="2 3"/>
+    <text x="534" y="70" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#b5a4ff">2024</text>
+    <text x="534" y="90" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#e6edf3">Full Stack .NET &amp; Angular</text>
+    <text x="534" y="107" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8b949e">ITI, 9-month program</text>
+  </g>
+  <circle cx="534" cy="150" r="0" fill="#121727" stroke="#7c5cff" stroke-width="3">
+    <animate attributeName="r" values="0;9;7" keyTimes="0;0.6;1" dur="0.45s" begin="2.30s" fill="freeze"/>
+  </circle>
+  <circle cx="534" cy="150" r="0" fill="#7c5cff">
+    <animate attributeName="r" from="0" to="3" dur="0.3s" begin="2.50s" fill="freeze"/>
+  </circle>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.80s" fill="freeze"/>
+    <line x1="648" x2="648" y1="160" y2="184" stroke="#7c5cff" stroke-opacity="0.45" stroke-dasharray="2 3"/>
+    <text x="648" y="198" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#b5a4ff">2026</text>
+    <text x="648" y="218" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#e6edf3">Technical Instructor</text>
+    <text x="648" y="235" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8b949e">iSchool DEMI</text>
+  </g>
+  <circle cx="648" cy="150" r="0" fill="#121727" stroke="#7c5cff" stroke-width="3">
+    <animate attributeName="r" values="0;9;7" keyTimes="0;0.6;1" dur="0.45s" begin="2.80s" fill="freeze"/>
+  </circle>
+  <circle cx="648" cy="150" r="0" fill="#7c5cff">
+    <animate attributeName="r" from="0" to="3" dur="0.3s" begin="3.00s" fill="freeze"/>
+  </circle>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.30s" fill="freeze"/>
+    <line x1="762" x2="762" y1="140" y2="116" stroke="#ff7aa8" stroke-opacity="0.45" stroke-dasharray="2 3"/>
+    <rect x="740" y="57" width="44" height="18" rx="9" fill="#ff7aa8"/><text x="762" y="70" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="11" font-weight="700" fill="#fff">NOW</text>
+    <text x="762" y="90" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#e6edf3">.NET Developer</text>
+    <text x="762" y="107" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#8b949e">Informatique Education</text>
+  </g>
+  <circle cx="762" cy="150" r="0" fill="#121727" stroke="#ff7aa8" stroke-width="3">
+    <animate attributeName="r" values="0;9;7" keyTimes="0;0.6;1" dur="0.45s" begin="3.30s" fill="freeze"/>
+  </circle>
+  <circle cx="762" cy="150" r="0" fill="#ff7aa8">
+    <animate attributeName="r" from="0" to="3" dur="0.3s" begin="3.50s" fill="freeze"/>
+  </circle>
+  <circle cx="762" cy="150" r="7" fill="none" stroke="#ff7aa8" stroke-width="2" opacity="0">
+    <animate attributeName="r" values="7;20" dur="1.8s" begin="3.30s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0" dur="1.8s" begin="3.30s" repeatCount="indefinite"/>
+  </circle>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="30" viewBox="0 0 76 30" role="img" aria-label="API">
+<title>API</title>
+
+<rect x="0.5" y="0.5" width="75" height="29" rx="15" fill="#1b2033" stroke="#3a3f5c"/>
+<g transform="translate(13 7) scale(0.67)" fill="none" stroke="#c4b5ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" color="#c4b5ff"><path d="M9 8l-4 4 4 4M15 8l4 4-4 4"/></g>
+<text x="35" y="19.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#e6edf3" textLength="26.0" lengthAdjust="spacingAndGlyphs">API</text>
+</svg>
